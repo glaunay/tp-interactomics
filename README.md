@@ -247,7 +247,7 @@ Aller sur le site de [STRING](string-db.org), et afficher les interactions entre
 3. charger le fichier human_proteins_unique.txt, en spécifiant l'organisme *Homo Sapiens*,
 4. valider les protéines identifiées par STRING (en cliquant sur *Continue*).
 
-Par défaut, STRING affiche les interactions avec tous les canaux, a partir d'un indice de confiance 'moyen', c'est a dire supérieur a 0.4.
+Par défaut, STRING affiche les interactions avec tous les canaux, à partir d'un indice de confiance 'moyen', c'est à dire supérieur à 0.4.
 Nous allons conserver ces paramètres par défaut.
 
 ## Simplification du réseau
